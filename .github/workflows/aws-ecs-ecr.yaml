@@ -34,7 +34,7 @@ env:
   AWS_REGION: us-east-1           
   ECR_REPOSITORY: bing-node-app      
   ECS_SERVICE: ecsdemo-frontend-bing          
-  ECS_CLUSTER: ecs-tf-bing2                    
+  ECS_CLUSTER: ecs-tf-bing                    
   CONTAINER_NAME: ecs-sample         
                                                
 
